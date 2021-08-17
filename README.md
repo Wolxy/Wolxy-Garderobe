@@ -1,3 +1,5 @@
+# **OUTDATED.** Dette script bliver ikke understøttet længere, jeg vil udgive en forbedret version i fremtiden.
+
 # Garderobe 📄
 Her er mit garderobe script til [vRP](https://github.com/DunkoUK/dunko_vrp/) som er nemt at konfigurere (der er også en beskrivelse af hver indstilling). Med denne garderobe kan man gemme outfits ved lokationer du kan vælge, som standard er der tilføjet alle tøjbutikker. Alle outfits bliver gemt ligesom dem i ens hus, så man kan se alle outfits man har gemt i sit hus, med dette script.
 
